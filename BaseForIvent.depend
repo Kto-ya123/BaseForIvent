@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1560758514 source:/home/ITRANSITION.CORP/a.luzgin/example/BaseForIvent/main.cpp
+	<exception>
+	<iostream>
+	<cmath>
+	<string>
+	<vector>
+	<set>
+	<map>
+
